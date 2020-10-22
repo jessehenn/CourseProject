@@ -1,3 +1,8 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+## Overview
+- Team: PiazzaEd
+- Topic: Integrating [Piazza](https://piazza.com/) with [Educational Web](https://github.com/CS410Fall2020/EducationalWeb)
+
+## Project Proposal
+- [Project Proposal](./proposal/CS410-PiazzaEd-Project-Proposal.pdf)
