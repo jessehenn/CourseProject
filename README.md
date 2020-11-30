@@ -6,3 +6,7 @@
 
 ## Project Proposal
 - [Project Proposal](./proposal/CS410-PiazzaEd-Project-Proposal.pdf)
+
+## Project Progress Report
+- [Project Progress Report](./progress-report/PiazzaEdGroupProgressReport.pdf)
+
