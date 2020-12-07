@@ -14,7 +14,7 @@
 
 - [Written Documentation](./final-artifacts/WrittenDocumentation.pdf)
 - [Source Code Repository](https://github.com/pgruber2/EducationalWeb)
-- [Demo Video](https://uillinoisedu-my.sharepoint.com/:v:/g/personal/jjhenn2_illinois_edu/EX9we1czpAVNmGltsy3CKtYBvnMZfr-Ny9z8EY3HyqUNPw?e=eldW31)
-- [Implementation Details Overview Video](https://uillinoisedu-my.sharepoint.com/:v:/g/personal/jjhenn2_illinois_edu/EVf4HWGmqqlEpKJNSDCGf9sBqvqMCEcZUvfgm1h8Sop2GA?e=jxnOif)
+- [Demo Video](https://uillinoisedu-my.sharepoint.com/:v:/g/personal/jjhenn2_illinois_edu/EVk_Z3nAcV9ItPbd7cT2CaMB2E4NJwcSI8TiZ_WP49ZOBQ?e=ksY3EZ)
+- [Implementation Details Overview Video](https://uillinoisedu-my.sharepoint.com/:v:/g/personal/jjhenn2_illinois_edu/EbRZngzE8CZCgUIRZY2af2QBMdEEamwJclyZD4xiup76pw?e=vBuEOA)
 - [Survey Overview Video](https://uillinoisedu-my.sharepoint.com/:v:/g/personal/jjhenn2_illinois_edu/Ean9a3GjBiFIq1PY5edZ8usBhEnp-aUwb4oOH3KXfxEheA?e=iXvtQ4)
 - [Survey Results in CSV](./final-artifacts/SurveyResults.csv.zip)
